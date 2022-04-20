@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navigation {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.main {
+    font-family: 'Cairo';
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 67px;
+
+color: #000000;
+width: 263px;
+height: 67px;
+margin-left: 150px;
+
+}
+
+.maps {
+    
+width: 93px;
+height: 67px;
+
+
+font-family: 'Cairo';
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 67px;
+margin-left: 217px;
+color: #000000;
+}
+
+.presets {
+    
+width: 227px;
+height: 67px;
+
+
+font-family: 'Cairo';
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 67px;
+
+color: #000000;
+margin-left: 268px;
+}
+
+.aboutus {
+    
+    width: 160px;
+    height: 67px;
+    
+    
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 67px;
+    
+    color: #000000;
+    margin-left: 224px;
+}
+
+.vkimg {
+    width: 30px;
+    height: 30px;
+    margin-left: 147px;
+}
+
+.dsimg {
+    width: 30px;
+    height: 33.42px;
+    margin-left: 20px;
+    margin-right: 97px;
+}
