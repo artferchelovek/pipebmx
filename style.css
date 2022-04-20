@@ -131,3 +131,17 @@ top: 107px;
 .p1, .p2, .p3 {
     text-align: center;
 }
+
+.aboutus1 {
+    margin: 0 auto;
+    margin-top: 188px;
+    width: 1650px;
+height: 309px;
+}
+
+.abs2 {
+    margin-top: 136px;
+}
+.abs2, .abs3 {
+    text-align: center;
+}
